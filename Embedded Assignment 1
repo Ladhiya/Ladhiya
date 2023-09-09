@@ -1,4 +1,4 @@
-Octobotics Embedded Assignment - 1
+Octobotcs Embedded Assignment - 1
 
 Write structured C++ Code for Below Tasks , using available libraries.
 *Establish Serial Communication with Device at Port = /dev/ttyUSB0 and perform data integrity check using CRC-16.
